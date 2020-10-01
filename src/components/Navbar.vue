@@ -12,7 +12,7 @@
       </v-btn>
       <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
     </v-toolbar>
-    <v-navigation-drawer app v-model="drawer" class="purple">
+    <v-navigation-drawer app v-model="drawer" class="primary">
       <p class="white--text">test</p>
     </v-navigation-drawer>
   </nav>
