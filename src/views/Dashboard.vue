@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1 class="display-3">Homepage</h1>
+    <h1 class="subheading grey--text">Homepage</h1>
     <v-btn class="purple hidden-sm-and-down" dark>
       <v-icon>face</v-icon>
     </v-btn>
